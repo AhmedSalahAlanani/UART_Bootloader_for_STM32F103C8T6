@@ -1,0 +1,10 @@
+.\objects\uartbootloader_program.o: UARTBootloader_program.c
+.\objects\uartbootloader_program.o: STD_TYPES.h
+.\objects\uartbootloader_program.o: BIT_MATH.h
+.\objects\uartbootloader_program.o: SCB_interface.h
+.\objects\uartbootloader_program.o: UART_interface.h
+.\objects\uartbootloader_program.o: SysTick_interface.h
+.\objects\uartbootloader_program.o: FPEC_interface.h
+.\objects\uartbootloader_program.o: UARTBootloader_interface.h
+.\objects\uartbootloader_program.o: UARTBootloader_config.h
+.\objects\uartbootloader_program.o: UARTBootloader_private.h
